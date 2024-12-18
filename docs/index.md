@@ -1,6 +1,6 @@
-# Documentation Index
+# Documentation Home
 
-This index provides an overview of the available documentation files in this repository. Use the links below to navigate to specific sections.
+This section provides an overview of the available documentation files in this repository. Use the links below to navigate to specific sections.
 
 ## Sections
 
@@ -15,6 +15,26 @@ This index provides an overview of the available documentation files in this rep
 ### Modelling
 - **Description:** This section focuses on the modelling process, including algorithms and methodologies.
 - **Details:** [View Modelling Documentation](modelling.md)
+
+### Binning
+- **Description:** This section focuses on the codes related to binning
+- **Details:** [View binning Documentation](binning.md)
+
+### Metrics
+- **Description:** This section focuses on the codes related to performance metrics
+- **Details:** [View metrics Documentation](metrics.md)
+
+
+### plots
+- **Description:** This section focuses on the codes related to function uses to plot the curve
+- **Details:** [View plots Documentation](plots.md)
+
+
+### woe
+- **Description:** This section focuses on the codes related woe functions
+- **Details:** [View woe Documentation](plots.md)
+
+
 
 ---
 
