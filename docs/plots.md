@@ -5,16 +5,16 @@ Documentation with Examples
 
 ## Table of Contents
 - [Functions](#functions)
-  - [1. add_labels](#function_add_labels)
-  - [2. perf_eva](#2-perf_eva)
-  - [3. eva_proc](#3-eva_proc)
-  - [4. eva_pks](#4-eva_pks)
-  - [5. plot_chart](#5-plot_chart)
-  - [6. exp_fit](#6-exp_fit)
-  - [7. plot_curve](#7-plot_curve)
-  - [8. generate_formula](#8-generate_formula)
-  - [9. get_plots_results](#9-get_plots_results)
-  - [10. auc](#10-auc)
+  - [1. add_labels](#function-add_labels)
+  - [2. perf_eva](#function-perf_eva)
+  - [3. eva_proc](#function-eva_proc)
+  - [4. eva_pks](#function-eva_pks)
+  - [5. plot_chart](#function-plot_chart)
+  - [6. exp_fit](#function-exp_fit)
+  - [7. plot_curve](#function-plot_curve)
+  - [8. generate_formula](#function-generate_formula)
+  - [9. get_plots_results](#function-get_plots_results)
+  - [10. auc](#function-auc)
   - [Back to Index](#back-to-index)
 
 
