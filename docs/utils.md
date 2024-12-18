@@ -4,7 +4,18 @@ Here is a more detailed version of your `utils.md` documentation, starting with 
 
 # **utils.md** Documentation
 
-## Functions
+## Table of Contents
+
+### Functions
+
+1. [`bins_to_df(bins)`](#bins_to_df-bins)
+2. [`is_monotonic(series)`](#is_monotonicseries)
+3. [`filter_list(items, substring='perc')`](#filter_listitems-substringperc)
+4. [`generate_pairs(results, variable_name)`](#generate_pairsresults-variable_name)
+5. [`Transformation`](#transformation)
+6. [`CapturePrint`](#captureprint)
+
+
 
 ### `bins_to_df(bins)`
 Converts a dictionary of bins into a DataFrame sorted by Information Value (IV).
