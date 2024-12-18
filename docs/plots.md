@@ -1,4 +1,22 @@
-### `plot.md` Documentation with Examples
+### Documentation of plots with Examples
+
+Documentation with Examples
+## Table of Contents
+
+## Table of Contents
+- [Functions](#functions)
+  - [1. add_labels](#1-add_labels)
+  - [2. perf_eva](#2-perf_eva)
+  - [3. eva_proc](#3-eva_proc)
+  - [4. eva_pks](#4-eva_pks)
+  - [5. plot_chart](#5-plot_chart)
+  - [6. exp_fit](#6-exp_fit)
+  - [7. plot_curve](#7-plot_curve)
+  - [8. generate_formula](#8-generate_formula)
+  - [9. get_plots_results](#9-get_plots_results)
+  - [10. auc](#10-auc)
+  - [Back to Index](#back-to-index)
+
 
 ---
 
@@ -162,10 +180,7 @@ The first example will generate a line chart, and the second will generate a com
 - [eva_pks](#eva_pks)
 - [plot_chart](#plot_chart)
 
----
-### `plot.md` Documentation with Examples (Curve Fitting and Plots)
 
----
 
 ### Function: `exp_fit`
 
